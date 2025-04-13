@@ -1,0 +1,11 @@
+{
+  "name": "Six-Month",
+  "description": "Six Months Membership",
+  "image": "https://github.com/isaac-eth/GymMemFinalPro/blob/main/sixMonthMembership.jpg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Duration",
+      "value": "Six Months"
+    }
+  ]
+}

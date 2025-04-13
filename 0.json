@@ -1,0 +1,11 @@
+{
+  "name": "One-Month",
+  "description": "One Month Membership",
+  "image": "https://github.com/isaac-eth/GymMemFinalPro/blob/main/monthMembership.jpg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Duration",
+      "value": "One Month"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "One-Year",
+  "description": "One Year Membership",
+  "image": "https://github.com/isaac-eth/GymMemFinalPro/blob/main/anualMembership.jpg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Duration",
+      "value": "One Year"
+    }
+  ]
+}

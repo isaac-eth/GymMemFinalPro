@@ -1,0 +1,11 @@
+{
+  "name": "Three-Month",
+  "description": "Three Months Membership",
+  "image": "https://github.com/isaac-eth/GymMemFinalPro/blob/main/treeMonthMembership.jpg?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Duration",
+      "value": "Three Months"
+    }
+  ]
+}
