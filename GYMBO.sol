@@ -214,7 +214,7 @@ contract GymMembership is ERC721, Ownable {
     function signInExtraClass (uint256 _extraClass) public {
         require(gym.balanceOf(msg.sender) >= (5),"Not enough GYM balance");
         require (_extraClass < AllExtraClassess.length, "Extra class not valid");
-        gym.transferFrom(msg.sender, address(this), 5);
+        gym.transferFrom(msg.sender, address(this), 5000000000000000000);
         emit ExtraClassSigned (msg.sender, _extraClass);
     }
 }
