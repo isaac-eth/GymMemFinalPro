@@ -28,5 +28,5 @@ Remix IDE for development and testing
 
 Deployed on Ethereum Testnet (Sepolia
 
-# Contract Address
+# Contract Address on Ethereum Sepolia Testnet
 0xdEb760690a7325b573b1502A070802e2604eDa6e
